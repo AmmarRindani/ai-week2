@@ -1,0 +1,4 @@
+groq
+pymupdf
+python-dotenv
+streamlit
